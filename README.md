@@ -1,6 +1,8 @@
 # 面题工坊 Resume2Interview
 
 > 上传简历，一键生成贴合你经历的面试题 —— 纯前端、零后端、隐私安全的 AI 面试题生成工具。
+>
+> 🔗 在线体验：https://tzhirong.github.io/Resume2Interview/
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue-3.4-42b883" alt="Vue 3.4" />
@@ -69,7 +71,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/Resume2Interview.git
+git clone https://github.com/TZhirong/Resume2Interview.git
 cd Resume2Interview
 
 # 2. 安装依赖
